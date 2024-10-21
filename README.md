@@ -4,8 +4,9 @@
 
   <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%; height: auto;" />
   
-  <p><img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /></p>
 </div>
+<br/>
+  <p><img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /></p>
 
 <div align="left">
   <a target="_blank">
