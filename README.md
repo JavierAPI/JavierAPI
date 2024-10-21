@@ -9,7 +9,7 @@
 
 <div align="left">
   <a target="_blank">
-    <img align="right" height="150" width="280" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; height: auto; margin: 10px;" />
+    <img align="right" height="170" width="280" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; height: auto; margin: 10px;" />
   </a>
 
   <strong>About Me!</strong>
