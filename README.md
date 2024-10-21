@@ -23,7 +23,7 @@
   </ul>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
   <kbd style="margin: 5px; font-size: 12px;">
     <kbd>Back-end</kbd>
     <br>
