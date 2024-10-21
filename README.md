@@ -64,6 +64,7 @@
     <img width="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bash-Light.svg" />
     <img width="25" src="https://raw.githubusercontent.com/microsoft/terminal/refs/heads/main/res/terminal.ico" />
   </kbd>
+  <br/>
   <kbd style="margin: 5px; font-size: 12px;">
     <kbd>IDE's</kbd>
     <br>
