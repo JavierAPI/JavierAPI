@@ -69,7 +69,7 @@
     <kbd>IDE's</kbd>
     <br>
     <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="25" src="https://raw.githubusercontent.com/JetBrains/logos/refs/heads/master/web/intellij-idea-ce/intellij-idea-ce.svg" />
     <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   </kbd>
 </div>
