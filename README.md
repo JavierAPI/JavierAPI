@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Javier</a> :grin:</h1>
+  <h1>Hi, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Javier Paredes</a> :grin:</h1>
   <h3>Colombian Developer :zap:</h3>
 
   <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%; height: auto;" />
