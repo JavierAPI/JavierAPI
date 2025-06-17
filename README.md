@@ -34,8 +34,8 @@
   <kbd style="margin: 5px; font-size: 12px;">
     <kbd>Mobile Dev</kbd>
     <br>
-    <img width="25" src="https://raw.githubusercontent.com/ionic-team/ionicons/refs/heads/main/src/svg/logo-ionic.svg" />
-    <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+    <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   </kbd>
   <kbd style="margin: 5px; font-size: 12px;">
     <kbd>Front-end</kbd>
@@ -44,7 +44,7 @@
     <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img width="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" />
     <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-    <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+    <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
   <kbd style="margin: 5px; font-size: 12px;">
